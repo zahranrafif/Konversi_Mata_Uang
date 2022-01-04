@@ -14,6 +14,8 @@ import service.ran.serviceProcess;
 @Controller
 @ResponseBody
 public class projectController {
+    //mengirim dari service ke controller
+    
     //Dikembangin
     //dari serviceProcess
     serviceProcess money = new serviceProcess();
